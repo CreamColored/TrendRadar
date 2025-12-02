@@ -1,11 +1,4 @@
-胖东来
-于东来
-
-DeepSeek
-梁文锋
-
-京东
-刘强东
+济南
 
 特斯拉
 马斯克
@@ -16,54 +9,31 @@ Microsoft
 英伟达
 NVIDIA
 黄仁勋
-
 AMD
+英特尔
 
+ai
+人工智能
 谷歌
 google
 gemini
 deepmind
-
 chatgpt
 openai
 sora
-
 claude
 Anthropic
+copilot
 
 iphone
 ipad
 mac
 ios
 
-ai
-!gai
-人工智能
-
-自动驾驶
-
-机器人
-
-国产
 中国
-
 美国
 日本
 韩国
-
-芯片
-光刻机
-
-科技
-
-核能
-
-月球
-登月
-火星
-宇宙
-飞船
-航空
 
 游戏
 steam
